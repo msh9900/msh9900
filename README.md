@@ -19,9 +19,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh9900)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh9900)](https://github.com/msh9900)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msh9900)] -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msh9900)](https://github.com/msh9900) -->
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
