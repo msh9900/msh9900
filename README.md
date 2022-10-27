@@ -1,7 +1,8 @@
-### Hi I'm MOS 👋
-<!-- ### Hi there 👋 -->
+### MOS Github👋
 
-<h3> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h3>
+<h3>짧은 소개</h3>
+<span>안녕하세요 주니어 프론트엔드 개발자 모승환입니다.
+현재 react와 node.js를 공부하고 미니 프로젝트를 진행 하고 있습니다.</span>
 
 <br>
 
