@@ -6,7 +6,7 @@
 </span>
 <br>
 <span>
-  https://msh9900.notion.site/MOS-4ae0894cb27b4b8e940f682660ff23f7
+  Notion주소:https://msh9900.notion.site/MOS-4ae0894cb27b4b8e940f682660ff23f7
 </span>
 
 <br>
