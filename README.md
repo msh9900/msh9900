@@ -4,6 +4,10 @@
 <span>안녕하세요 주니어 프론트엔드 개발자 MOS입니다.<br>
   
 </span>
+<br>
+<span>
+  https://msh9900.notion.site/MOS-4ae0894cb27b4b8e940f682660ff23f7
+</span>
 
 <br>
 
